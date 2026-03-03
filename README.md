@@ -55,6 +55,8 @@ Hands-on Azure projects demonstrating governance, security, cost control, and se
 - Secure Cloud Access Patterns
 - Least-Privilege Architecture
 
+  
+
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Focus](https://img.shields.io/badge/Focus-Governance%20%7C%20Security%20%7C%20Cost-0078D4)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
